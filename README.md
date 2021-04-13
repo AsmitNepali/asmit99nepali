@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Tux, the Linux mascot](/img/git-overview.png)
+![Tux, the Linux mascot](./img/git-overview.png)
 <!--
 **asmit99nepali/asmit99nepali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
