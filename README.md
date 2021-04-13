@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 ![Asmit,Nepali](https://github.com/asmit99nepali/asmit99nepali/blob/main/img/git-overview.jpg )
 <!--
