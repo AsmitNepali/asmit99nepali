@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Asmit,Nepali](https://github.com/asmit99nepali/asmit99nepali/blob/main/img/git-overview.jpg =100x)
+![Asmit,Nepali](https://github.com/asmit99nepali/asmit99nepali/blob/main/img/git-overview.jpg )
 <!--
 **asmit99nepali/asmit99nepali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
