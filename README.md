@@ -1,6 +1,6 @@
 ### Hi 👋
 
-![Asmit,Nepali](http://gph.is/2d3qmhY )
+![Asmit,Nepali](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
 <!--
 **asmit99nepali/asmit99nepali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
