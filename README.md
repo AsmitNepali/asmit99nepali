@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-
+HTML   30 mins         ████████████████████████▒   97.77 % 
 ```
 <!--END_SECTION:waka-->
 
