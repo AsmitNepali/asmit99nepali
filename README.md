@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Other   12 mins         ██████████████████████▓░░   90.39 % 
+YAML    1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
 ```
 <!--END_SECTION:waka-->
 
