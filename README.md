@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-PHP     16 mins         █████████████████████████   99.43 % 
+PHP     16 mins         ████████████████████████▓   98.91 % 
 ```
 <!--END_SECTION:waka-->
 
