@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-YAML   1 min           █████████████████████████   100.00 % 
+
 ```
 <!--END_SECTION:waka-->
 
