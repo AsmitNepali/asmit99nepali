@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-PHP     56 mins         ████████████████████▓░░░░   83.15 %
-Other   10 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.02 %
+PHP     1 hr            █████████████████████░░░░   84.11 %
+Other   10 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.11 %
 ```
 
 <!--END_SECTION:waka-->
