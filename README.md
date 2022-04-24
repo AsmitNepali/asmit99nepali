@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Bash             1 min           ████████████████████████▓   98.03 %
-Blade Template   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Bash   13 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
