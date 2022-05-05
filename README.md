@@ -21,7 +21,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-PHP   1 min           █████████████████████████   100.00 %
+C                20 mins         ████████████████▓░░░░░░░░   66.46 %
+JavaScript       7 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.81 %
+PHP              2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
+Blade Template   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
