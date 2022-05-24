@@ -21,10 +21,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Bash                       49 mins         ████████████████▓░░░░░░░░   66.37 %
-Docker                     20 mins         ███████░░░░░░░░░░░░░░░░░░   27.96 %
-YAML                       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-Other                      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+JSON             5 mins          █████████████████████░░░░   84.03 %
+Other            0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
 ```
 
 <!--END_SECTION:waka-->
