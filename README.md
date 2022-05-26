@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JSON             5 mins          █████████████████████░░░░   84.03 %
-Other            0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
+PHP              22 mins         ███████████████████▒░░░░░   77.44 %
+JSON             5 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.30 %
+Other            0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
 ```
 
 <!--END_SECTION:waka-->
