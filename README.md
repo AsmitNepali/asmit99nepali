@@ -21,9 +21,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-C     2 mins          ██████████▓░░░░░░░░░░░░░░   43.22 %
-PHP   1 min           ████████░░░░░░░░░░░░░░░░░   31.65 %
-C++   1 min           ██████▒░░░░░░░░░░░░░░░░░░   25.13 %
+PHP   1 min           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
