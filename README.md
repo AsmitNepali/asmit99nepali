@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-PHP              1 hr 15 mins    █████████████████░░░░░░░░   68.49 %
-JavaScript       12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
-Bash             10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 %
-HTML             6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
-Blade Template   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
-JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+PHP              27 mins         ███████████░░░░░░░░░░░░░░   44.45 %
+JavaScript       12 mins         █████░░░░░░░░░░░░░░░░░░░░   20.50 %
+Bash             10 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.32 %
+HTML             6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 %
+Blade Template   3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
