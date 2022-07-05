@@ -21,9 +21,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript       12 mins         ████████████████▒░░░░░░░░   64.84 %
-HTML             6 mins          ████████▓░░░░░░░░░░░░░░░░   34.44 %
-Blade Template   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+JavaScript   12 mins         ████████████████▒░░░░░░░░   65.31 %
+HTML         6 mins          ████████▓░░░░░░░░░░░░░░░░   34.69 %
 ```
 
 <!--END_SECTION:waka-->
