@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   34 mins         ████████████████░░░░░░░░░   63.72 %
-Vue.js       10 mins         █████░░░░░░░░░░░░░░░░░░░░   20.13 %
-CSS          4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
-Other        3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
+JavaScript   10 mins         ███████████████▓░░░░░░░░░   63.32 %
+XML          5 mins          ████████░░░░░░░░░░░░░░░░░   31.83 %
+CSS          0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+Vue.js       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
 ```
 
 <!--END_SECTION:waka-->
