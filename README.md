@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Bash         25 mins         █████████████░░░░░░░░░░░░   52.51 %
-Vue.js       8 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.60 %
-Other        4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
+Bash         25 mins         ████████████▓░░░░░░░░░░░░   50.25 %
+Vue.js       8 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.84 %
+JavaScript   6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 %
+Other        4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
 ```
 
 <!--END_SECTION:waka-->
