@@ -21,8 +21,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Bash         25 mins         ████████████████░░░░░░░░░   63.67 %
-Other        4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.41 %
+Bash         25 mins         █████████░░░░░░░░░░░░░░░░   35.48 %
+PHP          22 mins         ████████░░░░░░░░░░░░░░░░░   31.72 %
+JavaScript   11 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.32 %
+Other        4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
 ```
 
 <!--END_SECTION:waka-->
