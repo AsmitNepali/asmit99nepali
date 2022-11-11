@@ -21,11 +21,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-PHP          3 hrs 3 mins    █████████████████▒░░░░░░░   69.08 %
-Vue.js       1 hr 8 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.68 %
-JavaScript   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
-SQL          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+PHP          4 hrs 43 mins   ██████████████████▒░░░░░░   73.04 %
+Vue.js       1 hr 8 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.60 %
+JavaScript   23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
+Bash         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+SQL          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
