@@ -21,9 +21,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-C++    6 mins          █████████████████▒░░░░░░░   68.68 %
-Java   2 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.21 %
-PHP    0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
+Java   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
