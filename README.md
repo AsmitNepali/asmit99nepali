@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Bash                       45 mins         █████████████▓░░░░░░░░░░░   54.74 %
-Other                      16 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.23 %
+Bash                       45 mins         ████████████▓░░░░░░░░░░░░   50.96 %
+C#                         20 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.71 %
+Other                      16 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.90 %
 ```
 
 <!--END_SECTION:waka-->
