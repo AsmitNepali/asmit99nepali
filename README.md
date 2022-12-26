@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-PHP    37 mins         ██████████████████▓░░░░░░   74.62 %
-C#     12 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.99 %
-Bash   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+PHP    40 mins         █████████████████████▓░░░   86.20 %
+C#     6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.37 %
+Bash   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
