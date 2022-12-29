@@ -21,8 +21,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-PHP    40 mins         █████████████████████████   99.50 %
-Bash   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+PHP          41 mins         ████████████████▒░░░░░░░░   65.53 %
+JavaScript   14 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.54 %
+Gherkin      5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 %
+Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 ```
 
 <!--END_SECTION:waka-->
