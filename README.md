@@ -21,10 +21,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-C#           2 hrs 11 mins   ██████████████████████▒░░   88.68 %
-YAML         16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
