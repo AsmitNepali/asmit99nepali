@@ -21,10 +21,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-CSS    13 mins         ████████████▓░░░░░░░░░░░░   51.17 %
-C#     6 mins          ██████░░░░░░░░░░░░░░░░░░░   24.40 %
-HTML   6 mins          ██████░░░░░░░░░░░░░░░░░░░   24.33 %
-XML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+CSS    2 mins          █████████████████▓░░░░░░░   70.43 %
+HTML   0 secs          ███████▒░░░░░░░░░░░░░░░░░   29.57 %
 ```
 
 <!--END_SECTION:waka-->
