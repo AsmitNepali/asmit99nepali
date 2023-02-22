@@ -21,9 +21,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-C#     55 mins         █████████████████████▒░░░   85.25 %
-XML    8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.23 %
-JSON   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+XML    8 mins          ██████████████████████▒░░   89.22 %
+JSON   0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 %
 ```
 
 <!--END_SECTION:waka-->
