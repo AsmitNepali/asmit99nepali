@@ -21,8 +21,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-XML    8 mins          ██████████████████████▒░░   89.22 %
-JSON   0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 %
+PHP          17 mins         ███████████▓░░░░░░░░░░░░░   47.24 %
+HTML         9 mins          ██████░░░░░░░░░░░░░░░░░░░   24.62 %
+XML          8 mins          ██████░░░░░░░░░░░░░░░░░░░   24.35 %
+JSON         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
