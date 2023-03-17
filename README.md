@@ -21,7 +21,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-C#   22 mins         █████████████████████████   100.00 %
+JSON             28 mins         █████████████░░░░░░░░░░░░   52.64 %
+PHP              10 mins         █████░░░░░░░░░░░░░░░░░░░░   19.63 %
+C#               6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
+Blade Template   5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.88 %
+Markdown         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+Bash             1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
 ```
 
 <!--END_SECTION:waka-->
