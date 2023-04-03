@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-PHP          50 mins         ████████████████▓░░░░░░░░   66.77 %
-Vue.js       22 mins         ███████▒░░░░░░░░░░░░░░░░░   29.76 %
-Other        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+PHP              50 mins         ████████████████▒░░░░░░░░   65.41 %
+Vue.js           22 mins         ███████▒░░░░░░░░░░░░░░░░░   29.15 %
+Other            2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
 ```
 
 <!--END_SECTION:waka-->
