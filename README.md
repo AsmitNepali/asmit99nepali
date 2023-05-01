@@ -21,10 +21,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-PHP              2 hrs 56 mins   ████████████▓░░░░░░░░░░░░   50.41 %
-Vue.js           46 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.44 %
-Blade Template   44 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
-Other            33 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
+PHP              2 hrs 54 mins   ██████████████▒░░░░░░░░░░   57.91 %
+Blade Template   44 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.83 %
+Other            33 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 %
 ```
 
 <!--END_SECTION:waka-->
