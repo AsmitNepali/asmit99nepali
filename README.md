@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-PHP              2 hrs 14 mins   ██████████████░░░░░░░░░░░   56.50 %
-Blade Template   58 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.72 %
-Other            20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
+PHP              2 hrs 14 mins   ███████████████░░░░░░░░░░   60.02 %
+Blade Template   48 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.74 %
+Other            18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
 ```
 
 <!--END_SECTION:waka-->
