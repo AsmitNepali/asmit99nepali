@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Blade Template   3 hrs 48 mins   ████████████████▒░░░░░░░░   65.16 %
-PHP              1 hr 41 mins    ███████▒░░░░░░░░░░░░░░░░░   29.04 %
-Bash             14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
-Other            4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-SCSS             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Blade Template   4 hrs 57 mins   ████████████████░░░░░░░░░   63.90 %
+PHP              2 hrs 24 mins   ███████▓░░░░░░░░░░░░░░░░░   31.07 %
+Bash             14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+Other            4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+SCSS             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->
