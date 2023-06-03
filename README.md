@@ -20,10 +20,8 @@ Here are some ideas to get you started:
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 
-```text
-Other            2 hrs 55 mins   ███████████████████▓░░░░░   78.81 %
-Blade Template   42 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.11 %
-PHP              4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+```txt
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
